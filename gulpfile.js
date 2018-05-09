@@ -37,7 +37,7 @@ gulp.task('default', function (done) {
 
   dutil.logHelp(
     'gulp build',
-    'This task is an alias for running `gulp sass javascript images fonts` and is the recommended task to build all assets.'
+    'This task is an alias for running `gulp sass javascript images` and is the recommended task to build all assets.'
   );
 
   dutil.logCommand(
